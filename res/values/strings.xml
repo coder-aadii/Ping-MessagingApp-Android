@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ping</string>
+    <string name="ping_message_app">Ping - Your messaging app</string>
+    <string name="ping_message_app_desc">This is the title of the Ping messaging app</string>
+    <string name="logout_icon">Logout button icon</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
