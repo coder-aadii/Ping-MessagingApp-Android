@@ -18,17 +18,23 @@ Ping is an Android-based chat application designed to provide a smooth and fast 
 
 ## 🚀 Screenshots
 
+### Flash Screen
+![Flash Screen](snapshots/Flash_screen.png)
+
 ### Home Screen
-![Home Screen](https://via.placeholder.com/400x800.png?text=Home+Screen)
+![Home Screen](snapshots/Home.png)
 
 ### Chat Interface
-![Chat Interface](https://via.placeholder.com/400x800.png?text=Chat+Interface)
+![Chat Interface](snapshots/Chat.png)
 
-### User Profile
-![User Profile](https://via.placeholder.com/400x800.png?text=User+Profile)
+### User Login
+![User Login](snapshots/Login.jpg)
 
-### Group Chat
-![Group Chat](https://via.placeholder.com/400x800.png?text=Group+Chat)
+### User Register
+![User Register](snapshots/Register.png)
+
+### Logout Interface
+![Logout Interfacer](snapshots/Logout.png)
 
 ## 🛠️ Technology Stack
 
