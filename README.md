@@ -1,6 +1,6 @@
 # Ping - Android Messaging App
 
-![Ping Logo](https://github.com/coder-aadii/Ping-MessagingApp-Android/blob/main/res/drawable-xhdpi/ping_logo512x512.png)
+![Ping Logo](https://github.com/coder-aadii/Ping-MessagingApp-Android/blob/main/snapshots/logo.ico)
 
 > A sleek, intuitive, and real-time messaging application for Android devices, built using Android Studio. **Ping** makes connecting with friends and family seamless with its simple interface and efficient messaging features.
 
